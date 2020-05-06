@@ -11,6 +11,6 @@
     "patch-release": "release-semver --sourceBranch release --prefix release --commands [tag,push]"
   },
   "devDependencies": {
-    "@topicusonderwijs/release-semver": "1.0.1"
+    "@topicusonderwijs/release-semver": "../release-semver"
   }
 }
